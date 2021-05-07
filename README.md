@@ -6,6 +6,8 @@
 
 <p align="justify">Our team has chosen to analyze the effects of the 2020 Pandemic and its correlation to Netflix ratings, revenue, subscribers, and their changes over the last year. We took a deeper dive into looking at what Top 5 movies Americans were watching during the pandemic, and of the North American countries; United States, Canada, and Mexico, which produced the most TV-MA rated TV Shows in 2020. Lastly, we graphed a comparison of the number Netflix TV shows and Movies for 2020 to understand what selections Americans had to choose from. </p>
 
+
+##IMBDPY notebook is the code to merge the IMBD rating with the netflix titles
 ## Our data analytics shows….
 
 

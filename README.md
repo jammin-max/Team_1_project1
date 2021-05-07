@@ -38,7 +38,9 @@ here's a second look at a line graph same data
 mostly international movies released
 
 
-![](./Images/bar_movie_genre.png)
+![Bar Most Movies Released](./Images/bar_movie_genre.png)
+
+![TV-MA Graph Variety](./Images/tv_ma_countries_var.png)
 
 
 

@@ -11,7 +11,7 @@
 ## Our data analytics shows….
 
 
-![Pie Movie TV Shows](./Images/Pie_tvmovies.png)
+![Pie Movie TV Shows](./Images/pie_tvmovies.png)
 
 ##explain this chart
 

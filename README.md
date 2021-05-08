@@ -71,6 +71,7 @@ _Lastly, our graph shows a total percent of movies and TV Shows, suggesting view
 ### _So is there a correlation between movie duration and movie ratings?_
 ### _Let's take a look._ 
 
+_The graph below shows us that the longer the movie, the higher the ratings. Most average movie length acquired a rating of greather than 6. The shorter the movie, the average rating score fell below 5._
 ![Scatter Duration](./Images/scatter_duration_ratings.png)
 
 

@@ -68,7 +68,10 @@ _Lastly, our graph shows a total percent of movies and TV Shows, suggesting view
 ![Bar Movie TV Shows](./Images/bar_movie_tvshow.png)
 
 
-### _So does the duration of the two mediums impact the ratings? Let's take a look._ 
+### _So is there a correlation between movie duration and movie ratings?_
+### _Let's take a look._ 
+
+![Scatter Duration](./Images/scatter_duration_ratings.png)
 
 
 

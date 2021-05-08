@@ -62,16 +62,14 @@ _Taking a deeper look at the ratings, this next bar graph shows an anlytical bre
 
 _Lastly, our graph shows a total percent of movies and TV Shows, suggesting viewers had 69.1% more movie options than the 30.9% of TV Shows available._ 
 
-![Pie Movie TV Shows](./Images/pie_tvmovies.png)
-
-
-![Bar Movie TV Shows](./Images/bar_movie_tvshow.png)
+![Pie Movie TV Shows](./Images/pie_tvmovies.png) ![Bar Movie TV Shows](./Images/bar_movie_tvshow.png)
 
 
 ### _So is there a correlation between movie duration and movie ratings?_
 ### _Let's take a look._ 
 
 _The graph below shows us that the longer the movie, the higher the ratings. Most average movie length acquired a rating of greather than 6. The shorter the movie, the average rating score fell below 5._
+
 ![Scatter Duration](./Images/scatter_duration_ratings.png)
 
 

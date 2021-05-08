@@ -58,7 +58,7 @@ _Taking a deeper look at the ratings, this next bar graph shows an anlytical bre
 
 _Lastly, our graph shows a total percent of movies and TV Shows, suggesting viewers had 69.1% more movie options than the 30.9% of TV Shows available._ 
 
-![Pie Movie TV Shows](./Images/pie_tvmovies.png) ![Bar Movie TV Shows](./Images/bar_movie_tvshow.png)
+![Pie Movie TV Shows](./Images/pie_movie_tvshow.png) ![Bar Movie TV Shows](./Images/bar_movie_tv_show.png)
 
 
 ### _So is there a correlation between movie duration and movie ratings?_

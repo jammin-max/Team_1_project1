@@ -33,7 +33,7 @@ _The graph below shows that there were significantly more "International Movies"
 ![Bar Most Movies Released](./Images/bar_movie_genre2.png)
 
 
-### _Between Canada, Mexico and The USA, which country produced the most TV - MA rated TV shows in 2020?_
+###_Between Canada, Mexico and The USA, which country produced the most TV - MA rated TV shows in 2020?_
 
 
 _Below, a bar graph shows the United States leading the North American countries in TV-MA rated TV Shows in 2020 with nearly 140 TV Shows made in the country._ 

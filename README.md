@@ -14,15 +14,11 @@
 
 _From the graphs below, we can gather that 2020 had the heighest revenue by quarter compared to 2019._
 
-![Bar Revenue](./Images/bar_revenue_quarter_year.png)
-
-![Line Revenue](./Images/line_revenue_quarter_year.png)
+![Bar Revenue](./Images/bar_revenue_quarter_year.png) ![Line Revenue](./Images/line_revenue_quarter_year.png)
 
 _In comparison to the Netflix revenue, one could examine that 2020 also had the heightest membership subscriptions from 2019._
 
-![Bar Membership](./Images/memebership_bar_quarter.png)
-
-![Line Membership](./Images/membership_bar_quarter.png)
+![Bar Membership](./Images/memebership_bar_quarter.png) ![Line Membership](./Images/membership_bar_quarter.png)
 
 ##### _To conclude, there was an increase in Netflix revenue and memberships subscriptions in 2020. This was a sucessful year for  Netflix totaling over twenty two thousand new memberships for the year and around a 1.2 million dollar average increase in revenue._
 

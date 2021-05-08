@@ -10,7 +10,7 @@
 
 
 
-###_What is the difference between 2019 and 2020 Membership Subscriptions and Netflix Revenue?_
+### _What is the difference between 2019 and 2020 Membership Subscriptions and Netflix Revenue?_
 
 _From the graphs below, we can gather that 2020 had the heighest revenue by quarter compared to 2019._
 
@@ -24,16 +24,16 @@ _In comparison to the Netflix revenue, one could examine that 2020 also had the 
 
 ![Line Membership](./Images/membership_bar_quarter.png)
 
-#####_To conclude, there was an increase in Netflix revenue and memberships subscriptions in 2020. This was a sucessful year for  Netflix totaling over twenty two thousand new memberships for the year and around a 1.2 million dollar average increase in revenue._
+##### _To conclude, there was an increase in Netflix revenue and memberships subscriptions in 2020. This was a sucessful year for  Netflix totaling over twenty two thousand new memberships for the year and around a 1.2 million dollar average increase in revenue._
 
-###_During a 12 month span (January 2020 to January 2021) what has been the most  released genre on Netflix during the Pandemic Era?_
+### _During a 12 month span (January 2020 to January 2021) what has been the most  released genre on Netflix during the Pandemic Era?_
 
 _The graph below shows that there were significantly more "International Movies" released in 2020 than any other genre analyzed._ 
 
 ![Bar Most Movies Released](./Images/bar_movie_genre2.png)
 
 
-###_Between Canada, Mexico and The USA, which country produced the most TV - MA rated TV shows in 2020?_
+### _Between Canada, Mexico and The USA, which country produced the most TV - MA rated TV shows in 2020?_
 
 
 _Below, a bar graph shows the United States leading the North American countries in TV-MA rated TV Shows in 2020 with nearly 140 TV Shows made in the country._ 
@@ -41,7 +41,7 @@ _Below, a bar graph shows the United States leading the North American countries
 ![TV-MA Graph Variety](./Images/bar_tvma_countries.png)
 
 
-##_In 2020, what were the top 10 movies on Netflix based on average overall IMDB ratings?_
+## _In 2020, what were the top 10 movies on Netflix based on average overall IMDB ratings?_
 
 _Seen below is a bar graph showing what the Top 10 Movies were on Netflix in 2020. David Attenborough: A Life on Our Planet came in with a 9.0._ 
 
@@ -50,15 +50,15 @@ _Seen below is a bar graph showing what the Top 10 Movies were on Netflix in 202
 
 
 
-##_How did males rate these movies on average compared to famales?_
+## _How did males rate these movies on average compared to famales?_
 
 _Taking a deeper look at the ratings, this next bar graph shows an anlytical breakdown of gender ratings._  
 
 ![](./Images/top_10_gender_bar.png)
 
-#####_Comparatively more women rated David Attenborough: A Life on Our Planet higher than men. This bar graph also shows that with most titles women rated the movies higher, except for tyed rated titles such as Emicida:AmarElo -It's All for Yesterday and The Match._ 
+##### _Comparatively more women rated David Attenborough: A Life on Our Planet higher than men. This bar graph also shows that with most titles women rated the movies higher, except for tyed rated titles such as Emicida:AmarElo -It's All for Yesterday and The Match._ 
 
-##_Are there more TV shows or movies available on Netflix?_
+## _Are there more TV shows or movies available on Netflix?_
 
 _Lastly, our graph shows a total percent of movies and TV Shows, suggesting viewers had 69.1% more movie options than the 30.9% of TV Shows available._ 
 
@@ -68,7 +68,7 @@ _Lastly, our graph shows a total percent of movies and TV Shows, suggesting view
 ![Bar Movie TV Shows](./Images/bar_movie_tvshow.png)
 
 
-###_So does the duration of the two mediums impact the ratings? Let's take a look._ 
+### _So does the duration of the two mediums impact the ratings? Let's take a look._ 
 
 
 

@@ -60,6 +60,9 @@ _Lastly, our graph shows a total percent of movies and TV Shows, suggesting view
 
 ![Pie Movie TV Shows](./Images/pie_movie_tvshow.png) ![Bar Movie TV Shows](./Images/bar_movie_tv_show.png)
 
+### _Breakdown ratings into Net promoter categorys (Detractors = 0-5.9, Passives = 6.0-7.9, Promoters = 8-10)
+
+![Net Promoter Boxplot](./Images/duration_vs_ratings_box.png)
 
 ### _So is there a correlation between movie duration and movie ratings?_
 ### _Let's take a look._ 
@@ -67,6 +70,7 @@ _Lastly, our graph shows a total percent of movies and TV Shows, suggesting view
 _The graph below shows us that the longer the movie, the higher the ratings. Most average movie length acquired a rating of greather than 6. The shorter the movie, the average rating score fell below 5._
 
 ![Scatter Duration](./Images/scatter_duration_ratings.png)
+
 
 
 
